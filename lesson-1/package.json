@@ -1,0 +1,23 @@
+{
+  "name": "addition-lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evgeniya-star-35/addition-lessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evgeniya-star-35/addition-lessons/issues"
+  },
+  "homepage": "https://github.com/Evgeniya-star-35/addition-lessons#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
